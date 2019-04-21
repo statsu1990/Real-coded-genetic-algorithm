@@ -8,6 +8,7 @@ Articles of JGG and AREX
 https://www.jstage.jst.go.jp/article/tjsai/24/6/24_6_446/_pdf
 
 Minimizing quadratic function(n=100).
+[tex: f(a _ {1}, a _ {2}, ..., a _ {100}) = (a _ {1}^{2}+a _ {2}^{2}+...+a _ {100}^{2})/100]
 ![mrc](https://github.com/statsu1990/Real-coded-genetic-algorithm/blob/master/image/Minimizing%20quadratic%20functions(n%3D100).png)
 
 Calculation Result of multiple regression coefficient(n=100, σ=0.01).
